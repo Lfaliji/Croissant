@@ -1,0 +1,22 @@
+body {
+  background-color: #e8dbcf;
+  text-align: center;
+}
+
+h1 {
+  color: #ac8053;
+}
+
+img {
+  max-width: 50%;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  margin: 5px;
+  color: #ac8053;
+}
